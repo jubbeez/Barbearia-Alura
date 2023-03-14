@@ -71,10 +71,6 @@ nav a:hover {
     border-radius: 10px;
 }
 
-.produtos li:hover {
-    border-color: #db6b0e;
-}
-
 .produtos li:active {
     border-color: #db3333;
     /* quando um elemento está sendo ativado pelo usuário, ex: clique */
