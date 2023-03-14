@@ -80,11 +80,6 @@ nav a:hover {
     /* quando um elemento está sendo ativado pelo usuário, ex: clique */
 }
 
-.produtos li:hover h2 {
- /* quando o mouse estiver por cima do li, quero alterar o h2 */
-    font-size: 34px;
-}
-
 .produtos h2 {
     font-size: 30px;
     font-weight: bold;
